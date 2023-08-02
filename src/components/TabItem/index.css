@@ -1,0 +1,23 @@
+.tab-list {
+  list-style-type: none;
+}
+
+.tab-button {
+  background-color: transparent;
+  outline: none;
+  color: grey;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid white;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 4px;
+  background-color: transparent;
+}
+
+.active {
+  color: blue;
+  border-bottom: 2px solid blue;
+  padding-bottom: 8px;
+}
